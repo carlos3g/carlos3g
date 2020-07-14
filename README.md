@@ -1,6 +1,7 @@
 # Carlos Mesquita
-[![Twitter Badge](https://img.shields.io/badge/-@carlos3g-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=LINK)](LINK) [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos3g)](https://www.linkedin.com/in/carlos3g) 
-[![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosmesquita156@gmail.com)](mailto:carlosmesquita156@gmail.com)
+Student at Federal Institute of Piaui.   
+[![Twitter Badge](https://img.shields.io/badge/-@carlos3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=twitter&logoColor=white&link=LINK)](LINK) [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-8a2be2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos3g)](https://www.linkedin.com/in/carlos3g) 
+[![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-8a2be2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosmesquita156@gmail.com)](mailto:carlosmesquita156@gmail.com)
 
 <!--
 **carlos3g/carlos3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
