@@ -15,4 +15,16 @@ _“Everybody in this country should learn to program a computer, because it tea
 
 </div>
 
+<details>
+    <summary>Minhas Estátisticas no Github</summary>
+    <p align="center">
+        <b>Estátistica do Github</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+    </p>
+    <p align="center">
+        <b>Techs mais utilizadas nos projetos</b> <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&theme=dark" alt="Techs utilizadas nos projetos" />
+    </p>
+</details>
+
 ![Imagem Rodape](./.github/assets/images/rodape.png)
