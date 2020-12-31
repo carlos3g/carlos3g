@@ -4,7 +4,7 @@
 
 # Carlos Mesquita
 
-Student at Federal Institute of Piaui.
+Estudante no Instituto Federal do Piauí.
 
 [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=twitter&logoColor=white&link=https://twitter.com/c4rlos3g)](https://twitter.com/c4rlos3g)
 [![Instagram Badge](https://img.shields.io/badge/-@carlosm3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosm3g)](https://www.instagram.com/carlosm3g)
@@ -15,15 +15,17 @@ _“Everybody in this country should learn to program a computer, because it tea
 
 </div>
 
+<hr/>
+
 <details>
     <summary>Minhas Estátisticas no Github</summary>
     <p align="center">
         <b>Estátistica do Github</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+        <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
     </p>
     <p align="center">
         <b>Techs mais utilizadas nos projetos</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&theme=dark" alt="Techs utilizadas nos projetos" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
 
