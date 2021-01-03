@@ -19,14 +19,8 @@ _“Everybody in this country should learn to program a computer, because it tea
 
 <details>
     <summary>Minhas Estátisticas no Github</summary>
-    <p align="center">
-        <b>Estátistica do Github</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
-    </p>
-    <p align="center">
-        <b>Techs mais utilizadas nos projetos</b> <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos" />
-    </p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
 </details>
 
 ![Imagem Rodape](./.github/assets/images/rodape.png)
