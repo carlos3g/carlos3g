@@ -18,6 +18,14 @@ _“Everybody in this country should learn to program a computer, because it tea
 <hr/>
 
 <details>
+    <summary>Mais sobre mim</summary>
+    <ul>
+        <li>🎓 Técnico em Informática pelo IFPI</li>
+        <li>📚 Estudando Dev. Web e Mobile | Algoritmos | Matemática | Inglês</li>
+    </ul>
+</details>
+
+<details>
     <summary>Minhas Estátisticas no Github</summary>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos" />
         <img align="right" src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
