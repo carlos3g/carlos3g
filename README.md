@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Hi, Human!
-<h2/>
+</h2>
 
 <p align="center">
   <em>
