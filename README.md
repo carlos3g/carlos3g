@@ -36,10 +36,10 @@
 
 <div align="center">
 
-  [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?labelColor=4000FF&logo=twitter&logoColor=white)](https://twitter.com/c4rlos3g)
-  [![Instagram Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?labelColor=4000FF&logo=instagram&logoColor=white)](https://www.instagram.com/c4rlos3g)
-  [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?labelColor=4000FF&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos3g)
-  [![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?labelColor=4000FF&logo=Gmail&logoColor=white)](mailto:carlosmesquita156@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=twitter&logoColor=white)](https://twitter.com/c4rlos3g)
+  [![Instagram Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=instagram&logoColor=white)](https://www.instagram.com/c4rlos3g)
+  [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos3g)
+  [![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:carlosmesquita156@gmail.com)
   
 </div>
 
