@@ -10,6 +10,8 @@
   Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia, programação e algoritmos! atualmente eu sou um estudante no Instituto Federal do Piauí.
 </em>
 
+<br/>
+
 Quer uma ajuda em projetos open-source ou apenas bater um papo? Entre em contato comigo!
 
 [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=twitter&logoColor=white&link=https://twitter.com/c4rlos3g)](https://twitter.com/c4rlos3g)
