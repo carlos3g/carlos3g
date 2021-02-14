@@ -6,8 +6,10 @@
 
 ## Hi, Human!
 
-Estudante no Instituto Federal do Piauí.
-
+<em>
+  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia, programação e algoritmos! atualmente eu sou um estudante no Instituto Federal do Piauí.
+</em>
+   
 [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=twitter&logoColor=white&link=https://twitter.com/c4rlos3g)](https://twitter.com/c4rlos3g)
 [![Instagram Badge](https://img.shields.io/badge/-@c4rlos3g-8a2be2?style=flat-square&labelColor=8a2be2&logo=instagram&logoColor=white&link=https://www.instagram.com/c4rlos3g)](https://www.instagram.com/c4rlos3g)
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-8a2be2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos3g)](https://www.linkedin.com/in/carlos3g)
