@@ -31,7 +31,7 @@
 <hr/>
 
 <p align="center">
-  Quer uma ajuda em projetos open-source ou apenas bater um papo? Entre em contato comigo!
+  Quer uma ajuda em projetos open-source, me contratar ou apenas bater um papo? Entre em contato comigo!
 <p/>
 
 <div align="center">
