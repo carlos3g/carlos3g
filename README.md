@@ -6,11 +6,13 @@
   Hi, Human!
 </h2>
 
+<img src="https://user-images.githubusercontent.com/52337966/149811300-9ab782b7-67cd-4f00-8697-4041739fa064.png" width="120px" alt="bash" align="right"/>
+
 <p align="left">
   <em>
-    Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia, programação e algoritmos! atualmente eu sou um estudante no Instituto Federal do Piauí.
+    Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia, programação e algoritmos! Atualmente eu sou um estudante no Instituto Federal do Piauí.
   </em>
-<p/>
+</p>
 
 <details>
   <summary>Mais sobre mim</summary>
@@ -32,15 +34,15 @@
 
 <p align="center">
   Quer uma ajuda em projetos open-source, me contratar ou apenas bater um papo? Entre em contato comigo!
-<p/>
+</p>
 
 <div align="center">
 
-  [![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=twitter&logoColor=white)](https://twitter.com/c4rlos3g)
-  [![Instagram Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=instagram&logoColor=white)](https://www.instagram.com/c4rlos3g)
-  [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos3g)
-  [![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:carlosmesquita156@gmail.com)
-  
+[![Twitter Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=twitter&logoColor=white)](https://twitter.com/c4rlos3g)
+[![Instagram Badge](https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=instagram&logoColor=white)](https://www.instagram.com/c4rlos3g)
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos3g)
+[![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:carlosmesquita156@gmail.com)
+
 </div>
 
 <!--
