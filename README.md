@@ -1,13 +1,11 @@
-<img src="https://user-images.githubusercontent.com/52337966/149811300-9ab782b7-67cd-4f00-8697-4041739fa064.png" width="120px" alt="bash" align="right" />
+<img src="https://user-images.githubusercontent.com/52337966/149811300-9ab782b7-67cd-4f00-8697-4041739fa064.png" width="100px" alt="bash" align="right" />
 
 <h2>Hi, Human!</h2>
 
 <p>
-  <em>
-    Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia,
-    programação e algoritmos! Atualmente eu sou um estudante no Instituto
-    Federal do Piauí.
-  </em>
+  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia,
+  programação e algoritmos! Atualmente eu sou um estudante no Instituto
+  Federal do Piauí.
 </p>
 
 <details>
