@@ -19,8 +19,8 @@
 <details>
   <summary>Minhas Estátisticas no Github</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos" />
-    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="Techs utilizadas nos projetos" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&show_icons=true&include_all_commits=true&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="Estátisticas Gerais" />
   </p>
 </details>
 
@@ -32,15 +32,15 @@
 
 <div align="center">
   <a href="https://twitter.com/c4rlos3g" target="_blank">
-    <img src="https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/-@c4rlos3g-7303C0?logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
   <a href="https://www.instagram.com/c4rlos3g" target="_blank">
-    <img src="https://img.shields.io/badge/-@c4rlos3g-4000FF?logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/-@c4rlos3g-7303C0?logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <a href="https://www.linkedin.com/in/carlos3g" target="_blank">
-    <img src="https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+    <img src="https://img.shields.io/badge/-Carlos%20Mesquita-7303C0?logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
   </a>
   <a href="mailto:carlosmesquita156@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?logo=Gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/-carlosmesquita156@gmail.com-7303C0?logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
