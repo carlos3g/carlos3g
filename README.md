@@ -3,16 +3,16 @@
 <h2>Hi, Human!</h2>
 
 <p>
-  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, tecnologia,
-  programação e algoritmos! Atualmente eu sou um estudante no Instituto
-  Federal do Piauí.
+  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, psicologia, tecnologia, programação e algoritmos! <br/>
+  Atualmente eu sou um estudante no Instituto Federal do Piauí.
 </p>
 
 <details>
   <summary>Mais sobre mim</summary>
   <ul>
+    <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPI</li>
     <li>🎓 Técnico em Informática pelo IFPI</li>
-    <li>📚 Estudando Dev. Web e Mobile | Algoritmos | Matemática | Inglês</li>
+    <li>📚 Estudando Dev. Web e Mobile | Design | Algoritmos | Matemática | Inglês</li>
   </ul>
 </details>
 
