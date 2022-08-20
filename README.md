@@ -3,8 +3,7 @@
 <h2>Hi, Human!</h2>
 
 <p>
-  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, psicologia, tecnologia, programação e algoritmos! <br/>
-  Atualmente eu sou um estudante no Instituto Federal do Piauí.
+  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, psicologia, tecnologia, programação e algoritmos! Atualmente um estudante no Instituto Federal do Piauí.
 </p>
 
 <details>
