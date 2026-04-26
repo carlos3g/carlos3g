@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           registry-url: 'https://registry.npmjs.org'
 
       - name: Read package metadata
@@ -46,10 +46,12 @@ jobs:
           fi
 
       - name: Publish to npm
+        # Auth via npm Trusted Publishing (OIDC) — no NPM_TOKEN needed.
+        # Requires the trusted publisher to be configured at
+        # https://www.npmjs.com/package/carlos3g/access pointing at this
+        # repo + workflow file. Provenance is generated automatically.
         if: steps.check.outputs.should_publish == 'true'
-        run: npm publish --access public --provenance
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npm publish
 
       - name: Create GitHub release
         if: steps.check.outputs.should_publish == 'true'
