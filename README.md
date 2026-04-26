@@ -23,6 +23,18 @@
   </p>
 </details>
 
+<details>
+  <summary>Run my card in your terminal</summary>
+  <br />
+  <p>
+    I ship a tiny, zero-dependency CLI that prints a colorful business card with all my links — clickable in modern terminals.
+  </p>
+
+  ```sh
+  npx carlos3g
+  ```
+</details>
+
 <hr />
 
 <p align="center">

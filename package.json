@@ -1,0 +1,37 @@
+{
+  "name": "carlos3g",
+  "version": "1.0.0",
+  "description": "Cartão de apresentação do Carlos Mesquita no terminal — rode com `npx carlos3g`.",
+  "bin": {
+    "carlos3g": "bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "carlos3g",
+    "carlos-mesquita",
+    "cli",
+    "card",
+    "business-card",
+    "npx",
+    "portfolio"
+  ],
+  "author": {
+    "name": "Carlos Mesquita",
+    "email": "carlosmesquita156@gmail.com",
+    "url": "https://carlos3g.dev"
+  },
+  "homepage": "https://carlos3g.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos3g/carlos3g.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlos3g/carlos3g/issues"
+  },
+  "license": "MIT"
+}
