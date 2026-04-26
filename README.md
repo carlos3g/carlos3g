@@ -3,30 +3,30 @@
 <h2>Hi, Human!</h2>
 
 <p>
-  Eu sou o Carlos, um jovem apaixonado por aprender coisas novas, psicologia, tecnologia, programação e algoritmos! Atualmente um estudante no Instituto Federal do Piauí.
+  I'm Carlos, a young person passionate about learning new things, psychology, technology, programming, and algorithms! Currently a student at the Federal Institute of Piauí.
 </p>
 
 <details>
-  <summary>Mais sobre mim</summary>
+  <summary>More about me</summary>
   <ul>
-    <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPI</li>
-    <li>🎓 Técnico em Informática pelo IFPI</li>
-    <li>📚 Estudando Dev. Web e Mobile | Design | Algoritmos | Matemática | Inglês</li>
+    <li>🎓 Pursuing a degree in Systems Analysis and Development at IFPI</li>
+    <li>🎓 Technical degree in Computer Science from IFPI</li>
+    <li>📚 Studying Web & Mobile Dev | Design | Algorithms | Math | English</li>
   </ul>
 </details>
 
 <details>
-  <summary>Minhas Estátisticas no Github</summary>
+  <summary>My GitHub Stats</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="Techs utilizadas nos projetos" />
-    <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&show_icons=true&include_all_commits=true&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="Estátisticas Gerais" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos3g&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="Tech used in projects" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carlos3g&show_icons=true&include_all_commits=true&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2" alt="General Stats" />
   </p>
 </details>
 
 <hr />
 
 <p align="center">
-  Quer uma ajuda em projetos open-source, me contratar ou apenas bater um papo? Entre em contato comigo!
+  Want help on open-source projects, to hire me, or just to chat? Get in touch!
 </p>
 
 <div align="center">
