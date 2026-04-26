@@ -81,7 +81,7 @@ const data = {
   handle: '@carlos3g',
   role: 'Software Engineer',
   focus: 'Web · Mobile · Open Source',
-  location: 'Piauí, Brazil',
+  location: 'São Paulo, Brazil',
   rows: [
     { icon: '🌐', label: 'Portfolio', value: 'carlos3g.dev',                            url: 'https://carlos3g.dev' },
     { icon: '💼', label: 'LinkedIn',  value: 'linkedin.com/in/carlos3g',                url: 'https://www.linkedin.com/in/carlos3g' },

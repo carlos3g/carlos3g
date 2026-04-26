@@ -1,6 +1,6 @@
 {
   "name": "carlos3g",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cartão de apresentação do Carlos Mesquita no terminal — rode com `npx carlos3g`.",
   "bin": {
     "carlos3g": "bin/index.js"
